@@ -11,7 +11,7 @@
         "name": "admin",
         "passwordHash": "$y$j9T$n6h8P2ik8tfoNUFBBoly00$7bnrMF8oFrB25Fc3NqigqEH/MI5YXIJwtCG/iEsns.2",
         "sshAuthorizedKeys": [
-          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC/Hpx0rxjdl02ojlQal68kW0tkN5hHX7uGBROv6+MYCu2QuWNZQFs3tgLsNp9kn4LKrI2I49gkURQbjMAOdIATbSYYZCqcfjW1BFtpjG/5XzhAaTBc0x7GOi0Y0F/zPeZivHGrcJll1LtFPQbfBoPc3P/mDO/dRTS+lPXr8wNIyGwPfnnETX73vv8/u/EvCp1eatgcazLv6U2ptNEkhXlGJTbxw7vnFOxdK5oDE0DcIinx2DxFFGEP1r3xxDe/+1UW2zFqRku6TUcAHGBZtOcG9Ogrytd+8saafF1Nq0BCs4+Ugm5AhrtNnAnEa5ryKs5pzOBD3HnwIIqUT+68E0l/"
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDhNfvWPTRS0UvPCtrIrzyH8zFTdwVYtyRJB7hjI+4xkkix4gE2RIca7nGGykWKsxmppghfNamQGcuKGDpeymf8TwFsv14stav2ap1vSNB2AjSStV+HQy+wPc7cAOCU52GtRhMXo+V6/CMlwUNjCjqN2Q8X7MtXBtfG1ajVxNmd8BuykxA/mDvXVlxZF/LnLe3pwNaiJDNerboHP1MJoPdabz96ZwVJQ0WfknxyGjUvQpZIT27d5XbZtfgDSS0WS"
         ]
       }
     ]
