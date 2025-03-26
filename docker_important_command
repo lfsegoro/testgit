@@ -1,0 +1,11 @@
+docker images
+docker rmi name/id_image
+docker ps
+docker stop container_name/id
+docker ps -a
+docker rm container_name/id
+docker run --rm -d -p 9022:22 name/id_image
+docker exec -ti container_name/id bash
+docker volume ls
+docker volume rm xxxx
+docker restart container_name/id
